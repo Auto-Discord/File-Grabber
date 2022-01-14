@@ -15,5 +15,5 @@ node app
 Check reference [here](https://www.npmjs.com/package/pkg).
 ```bash
 npm i pkg -g
-pkg .
+pkg app.js
 ```
